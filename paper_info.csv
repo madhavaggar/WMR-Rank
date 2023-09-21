@@ -1,0 +1,337 @@
+paper_id,title,authors,cited_paper_ids,year
+cs/0001027,Pattern Discovery and Computational Mechanics,"['Shalizi Cosma Rohilla', 'Crutchfield James P.']",[],2000
+cs/0001025,Computational Geometry Column 38,"[""O'Rourke Joseph""]",[],2000
+cs/0001024,A Parallel Algorithm for Dilated Contour Extraction from Bilevel Images,"['Prasad L.', 'Schlei B. R.']",[],2000
+cs/0001023,Structured Language Modeling for Speech Recognition,"['Chelba Ciprian', 'Jelinek Frederick']",[],2000
+cs/0001022,Recognition Performance of a Structured Language Model,"['Chelba Ciprian', 'Jelinek Frederick']",[],2000
+cs/0001021,Refinement of a Structured Language Model,"['Chelba Ciprian', 'Jelinek Frederick']",[],2000
+cs/0001020,Exploiting Syntactic Structure for Natural Language Modeling,['Chelba Ciprian'],[],2000
+cs/0001015,Multi-Agent Only Knowing,"['Halpern Joseph Y.', 'Lakemeyer Gerhard']",[],2000
+cs/0001012,Measures of Distributional Similarity,['Lee Lillian'],[],2000
+cs/0001010,A Real World Implementation of Answer Extraction,"['Berri J.', 'Molla D.', 'Hess M.']",[],2000
+cs/0001008,"Predicting the expected behavior of agents that learn about agents: the
+  CLRI framework","['Durfee Edmund H.', 'Vidal Jose M.']",[],2000
+cs/0001004,"Multiplicative Algorithm for Orthgonal Groups and Independent Component
+  Analysis",['Akuzawa Toshinao'],['cs/0002006'],2000
+cs/0001002,Minimum Description Length and Compositionality,['Zadrozny Wlodek'],['cmp-lg/9503024v1'],2000
+cs/0002016,SLT-Resolution for the Well-Founded Semantics,"['Shen Yi-Dong', 'You Jia-Huai', 'Yuan Li-Yan']",[],2000
+cs/0002015,Genetic Algorithms for Extension Search in Default Logic,"['Saubion F.', 'Stephan I.', 'Nicolas P.']",[],2000
+cs/0002014,Safe cooperative robot dynamics on graphs,"['Ghrist Robert', 'Koditschek Daniel']",['cs/0002014'],2000
+cs/0002003,On the accuracy and running time of GSAT,"['East Deborah', 'Truszczynski Miroslaw']",[],2000
+cs/0002002,Uniform semantic treatment of default and autoepistemic logics,"['Truszczynski Miroslaw', 'Denecker Marc', 'Marek Victor W.']",[],2000
+cs/0002001,Computing large and small stable models,['Truszczynski Miroslaw'],[],2000
+cs/0003084,Information Extraction from Broadcast News,"['Gotoh Yoshihiko', 'Renals Steve']",[],2000
+cs/0003083,Advances in domain independent linear text segmentation,['Choi Freddy Y. Y.'],[],2000
+cs/0003081,Variable Word Rate N-grams,"['Gotoh Yoshihiko', 'Renals Steve']",[],2000
+cs/0003080,Some Remarks on Boolean Constraint Propagation,['Apt Krzysztof R.'],[],2000
+cs/0003079,Differential Invariants under Gamma Correction,['Siebert Andreas'],[],2000
+cs/0003077,DATALOG with constraints - an answer-set programming system,"['East Deborah', 'Truszczynski Miroslaw']",[],2000
+cs/0003076,Constraint Programming viewed as Rule-based Programming,"['Monfroy Eric', 'Apt Krzysztof R.']",['cs/9909009v1'],2000
+cs/0003072,"MOO: A Methodology for Online Optimization through Mining the Offline
+  Optimum","['Tung Anthony K. H.', 'Lee Jason W. H.', 'Tay Y. C.']",[],2000
+cs/0003067,Detecting Unsolvable Queries for Definite Logic Programs,"['Denecker Marc', 'Vandecasteele Henk', 'de Waal D. Andre', 'Bruynooghe Maurice']",[],2000
+cs/0003061,dcs: An Implementation of DATALOG with Constraints,"['East Deborah', 'Truszczynski Miroslaw']",[],2000
+cs/0003060,Message Classification in the Call Center,"['Schmeier Sven', 'Arens Roman G.', 'Busemann Stephan']",[],2000
+cs/0003059,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,"['Williams Mary-Anne', 'Sims Aidan']",[],2000
+cs/0003057,XNMR: A tool for knowledge bases exploration,"['Castro L.', 'Warren D.']",[],2000
+cs/0003056,A note on the Declarative reading(s) of Logic Programming,['Denecker Marc'],[],2000
+cs/0003055,TnT - A Statistical Part-of-Speech Tagger,['Brants Thorsten'],[],2000
+cs/0003052,A Consistency-Based Model for Belief Change: Preliminary Report,"['Delgrande James', 'Schaub Torsten']",[],2000
+cs/0003051,Local Diagnosis,['Wassermann Renata'],[],2000
+cs/0003049,Planning with Incomplete Information,"['Miller Rob', 'Toni Francesca', 'Kakas Antonis']",[],2000
+cs/0003048,PAL: Pertinence Action Language,"['Cabarcos Manuel', 'Cabalar Pedro', 'Otero Ramon P.']",[],2000
+cs/0003046,Linear Tabulated Resolution Based on Prolog Control Strategy,"['Shen Yi-Dong', 'Zhou Neng-Fa', 'You Jia-Huai', 'Yuan Li-Yan']",[],2000
+cs/0003044,"On the tractable counting of theory models and its application to belief
+  revision and truth maintenance",['Darwiche Adnan'],[],2000
+cs/0003042,Fages' Theorem and Answer Set Programming,"['Erdem Esra', 'Babovich Yuliya', 'Lifschitz Vladimir']",[],2000
+cs/0003041,"Coherence, Belief Expansion and Bayesian Networks","['Hartmann Stephan', 'Bovens Luc']",[],2000
+cs/0003040,Implementing Integrity Constraints in an Existing Belief Revision System,"['Shapiro Stuart C.', 'Johnson Frances L.']",[],2000
+cs/0003039,DES: a Challenge Problem for Nonmonotonic Reasoning Systems,"['Hietalahti Maarit', 'Niemela Ilkka', 'Massacci Fabio']",[],2000
+cs/0003037,QUIP - A Tool for Computing Nonmonotonic Reasoning Tasks,"['Eiter Thomas', 'Tompits Hans', 'Egly Uwe', 'Woltran Stefan']",[],2000
+cs/0003036,DLV - A System for Declarative Problem Solving,"['Eiter Thomas', 'Pfeifer Gerald', 'Faber Wolfgang', 'Koch Christoph', 'Leone Nicola']",[],2000
+cs/0003035,Declarative Representation of Revision Strategies,['Brewka Gerhard'],[],2000
+cs/0003034,"E-RES: A System for Reasoning about Actions, Events and Observations","['Miller Rob', 'Toni Francesca', 'Kakas Antonis']",[],2000
+cs/0003033,Smodels: A System for Answer Set Programming,"['Simons Patrik', 'Niemela Ilkka', 'Syrjanen Tommi']",['cs/0303009'],2000
+cs/0003032,cc-Golog: Towards More Realistic Logic-Based Robot Controllers,"['Grosskreutz Henrik', 'Lakemeyer Gerhard']",[],2000
+cs/0003031,Optimal Belief Revision,"['Mercer Robert E.', 'Vodislav Carmen']",[],2000
+cs/0003030,Problem solving in ID-logic with aggregates: some experiments,"['Van Nuffelen Bert', 'Denecker Marc']",[],2000
+cs/0003029,Fuzzy Approaches to Abductive Inference,"['Bouchon-Meunier Bernadette', 'Mellouli Nedra']",[],2000
+cs/0003028,Logic Programs with Compiled Preferences,"['Tompits Hans', 'Schaub Torsten', 'Delgrande James P.']",[],2000
+cs/0003027,SLDNFA-system,['Van Nuffelen Bert'],[],2000
+cs/0003024,A Compiler for Ordered Logic Programs,"['Tompits Hans', 'Schaub Torsten', 'Delgrande James P.']",[],2000
+cs/0003023,Probabilistic Default Reasoning with Conditional Constraints,['Lukasiewicz Thomas'],"['1303.5706', 'cs/9808007', '1302.6817', 'cs/0202021', 'cs/0202022', 'cs/0202022', 'cs/0203002', '1303.5434']",2000
+cs/0003022,Hypothetical revision and matter-of-fact supposition,['Arlo-Costa Horacio'],[],2000
+cs/0003021,Relevance Sensitive Non-Monotonic Inference on Belief Sequences,"['Chopra Samir', 'Georgatos Konstantinos', 'Parikh Rohit']","['cs/0007039v1', 'cs/0007040']",2000
+cs/0003020,ACLP: Integrating Abduction and Constraint Solving,['Kakas Antonis'],[],2000
+cs/0003017,The lexicographic closure as a revision process,['Booth Richard'],"['cs/0202021', 'cs/0202022', 'cs/0203002']",2000
+cs/0003016,"Abductive and Consistency-Based Diagnosis Revisited: a Modeling
+  Perspective","[""Dupre' Daniele Theseider""]",[],2000
+cs/0003015,On the semantics of merging,['Meyer Thomas'],[],2000
+cs/0003014,Applying Maxi-adjustment to Adaptive Information Filtering Agents,"['ter Hofstede Arthur H. M.', 'Bruza Peter D.', 'Lau Raymond']",['1304.1500'],2000
+cs/0003013,A flexible framework for defeasible logics,"['Antoniou G.', 'Billigton D.', 'Governatori G.', 'Maher M. J.']",[],2000
+cs/0003011,Automatic Belief Revision in SNePS,"['Johnson Frances L.', 'Shapiro Stuart C.']",[],2000
+cs/0003009,Conditional indifference and conditional preservation,['Kern-Isberner Gabriele'],['cs/0202025'],2000
+cs/0003008,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",['Satoh Ken'],[],2000
+cs/0003007,"Computing Circumscriptive Databases by Integer Programming: Revisited
+  (Extended Abstract)","['Satoh Ken', 'Okamoto Hidenori']",[],2000
+physics/0004057,The information bottleneck method,"['Pereira Fernando C.', 'Bialek William', 'Tishby Naftali']",[],2000
+cs/0004003,Searching for Spaceships,['Eppstein David'],[],2000
+cs/0004001,"A Theory of Universal Artificial Intelligence based on Algorithmic
+  Complexity",['Hutter Marcus'],[],2000
+physics/0005062,Applying MDL to Learning Best Model Granularity,"['Vitanyi Paul', 'Gao Qiong', 'Li Ming']",[],2000
+cs/0005031,Conditional Plausibility Measures and Bayesian Networks,['Halpern Joseph Y.'],"['1302.6797', '1302.6806']",2000
+cs/0005030,Axiomatizing Causal Reasoning,['Halpern Joseph Y.'],[],2000
+cs/0005027,A Bayesian Reflection on Surfaces,['Wolf David R.'],[],2000
+cs/0005025,Finite-State Reduplication in One-Level Prosodic Morphology,['Walther Markus'],[],2000
+cs/0005021,Modeling the Uncertainty in Complex Engineering Systems,['Guergachi A.'],[],2000
+cs/0005019,"On the Scalability of the Answer Extraction System ""ExtrAns""","['Hess Michael', ""Aliod Diego Moll'a""]",[],2000
+cs/0005017,Reasoning with Individuals for the Description Logic SHIQ,"['Tobies Stephan', 'Sattler Ulrike', 'Horrock Ian']",['cs/0005014'],2000
+cs/0005016,Improving Testsuites via Instrumentation,['Broeker Norbert'],[],2000
+cs/0005014,Practical Reasoning for Expressive Description Logics,"['Horrocks Ian', 'Tobies Stephan', 'Sattler Ulrike']",[],2000
+cs/0005013,Practical Reasoning for Very Expressive Description Logics,"['Horrocks Ian', 'Tobies Stephan', 'Sattler Ulrike']",['cs/0005014'],2000
+cs/0005012,Reasoning with Axioms: Theory and Pratice,"['Horrocks Ian', 'Tobies Stephan']",['cs/0005014'],2000
+cs/0005010,Extending and Implementing the Stable Model Semantics,['Simons Patrik'],['0903.2749v1'],2000
+cs/0005001,Robustness of Regional Matching Scheme over Global Matching Scheme,"['Tokuda Naoyuki', 'Chen Liang']",[],2000
+nlin/0006025,"Information Bottlenecks, Causal States, and Statistical Relevance Bases:
+  How to Represent Relevant Information in Memoryless Transduction","['Shalizi Cosma Rohilla', 'Crutchfield James P.']",[],2000
+math/0006233,Algorithmic Statistics,"['Vitanyi Paul', 'Tromp John', 'Gacs Peter']",[],2000
+cs/0006047,Geometric Morphology of Granular Materials,"['Skourikhine A. N.', 'Prasad L.', 'Schlei B. R.']",[],2000
+cs/0006044,Finite-State Non-Concatenative Morphotactics,"['Karttunen Lauri', 'Beesley Kenneth R.']",[],2000
+cs/0006042,Semantic Parsing based on Verbal Subcategorization,"['Atserias Jordi', 'Civit Montse', 'Castellon Irene', 'Rigau German']",[],2000
+cs/0006038,Approximation and Exactness in Finite State Optimality Theory,"['van Noord Gertjan', 'Gerdemann Dale']",[],2000
+cs/0006036,Prosody-Based Automatic Segmentation of Speech into Sentences and Topics,"['Hakkani-Tur D.', 'Shriberg E.', 'Stolcke A.', 'Tur G.']",['cs/0105037'],2000
+cs/0006031,Verifying Termination of General Logic Programs with Concrete Queries,"['Shen Yi-Dong', 'You Jia-Huai', 'Yuan Li-Yan']",[],2000
+cs/0006028,Trainable Methods for Surface Natural Language Generation,['Ratnaparkhi Adwait'],[],2000
+cs/0006025,Entropy-based Pruning of Backoff Language Models,['Stolcke A.'],[],2000
+cs/0006024,"Can Prosody Aid the Automatic Classification of Dialog Acts in
+  Conversational Speech?","['Shriberg E.', 'Bates R.', 'Stolcke A.', 'Jurafsky D.', 'Taylor P.']",['cmp-lg/9806002'],2000
+cs/0006023,"Dialogue Act Modeling for Automatic Tagging and Recognition of
+  Conversational Speech","['Shriberg E.', 'Bates R.', 'Stolcke A.', 'Coccaro N.', 'Ries K.']",[],2000
+cs/0006019,"A Compact Architecture for Dialogue Management Based on Scripts and
+  Meta-Outputs","['Rayner Manny', 'James Frankie', 'Hockey Beth Ann']",[],2000
+cs/0006012,Exploiting Diversity for Natural Language Parsing,['Henderson John C.'],"['cmp-lg/9506021v1', 'cmp-lg/9505040']",2000
+cs/0006011,Bagging and Boosting a Treebank Parser,"['Brill Eric', 'Henderson John C.']",[],2000
+cs/0006009,Knowledge and common knowledge in a distributed environment,"['Moses Yoram', 'Halpern Joseph Y.']",['cs/0006009'],2000
+cs/0006003,Exploiting Diversity in Natural Language Processing: Combining Parsers,"['Brill Eric', 'Henderson John C.']",[],2000
+cs/0006002,"Distorted English Alphabet Identification : An application of Difference
+  Boosting Algorithm","['Joseph K. Babu', 'Philip Ninan Sajeeth']",[],2000
+physics/0007070,"Predictability, complexity and learning","['Tishby Naftali', 'Nemenman Ilya', 'Bialek William']",[],2000
+cs/0007039,Ordering-based Representations of Rational Inference,['Georgatos Konstantinos'],"['cs/0202021', 'cs/0202022']",2000
+cs/0007036,"Language identification of controlled systems: Modelling, control and
+  anomaly detection","['Pires A. J.', 'Martins J. F.', 'Dente J. A.', 'Mendes R. Vilela']",[],2000
+cs/0007035,Mapping WordNets Using Structural Information,"['Rigau G.', 'Daude J.', 'Padro L.']",['cmp-lg/9709003v2'],2000
+cs/0007033,To Preference via Entrenchment,['Georgatos Konstantinos'],"['cs/0007039v1', 'cs/0202021', 'cs/0202022']",2000
+cs/0007024,"Many uses, many annotations for large speech corpora: Switchboard and
+  TDT as case studies","['Bird Steven', 'Graff David']",[],2000
+cs/0007023,Towards a query language for annotation graphs,"['Tan Wang-Chiew', 'Bird Steven', 'Buneman Peter']",['cs/0204026'],2000
+cs/0007022,ATLAS: A flexible and extensible architecture for linguistic annotation,"['Laprun Christophe', 'Henderson John', 'Bird Steven', 'Garofolo John', 'Day David']",['cs/0204026'],2000
+cs/0007018,"Bootstrapping a Tagged Corpus through Combination of Existing
+  Heterogeneous Taggers","['Daelemans Walter', 'Zavrel Jakub']",[],2000
+cs/0007013,Applying Constraint Handling Rules to HPSG,['Penn Gerald'],[],2000
+cs/0007011,"Naive Bayes and Exemplar-Based approaches to Word Sense Disambiguation
+  Revisited","['Marquez Lluis', 'Escudero Gerard', 'Rigau German']",[],2000
+cs/0007010,Boosting Applied to Word Sense Disambiguation,"['Marquez Lluis', 'Escudero Gerard', 'Rigau German']",[],2000
+cs/0007009,Incremental construction of minimal acyclic finite-state automata,"['Mihov Stoyan', 'Watson Richard', 'Daciuk Jan', 'Watson Bruce']",[],2000
+cs/0007004,Brainstorm/J: a Java Framework for Intelligent Agents,"['Amandi Analia', 'Zunino Alejandro']",[],2000
+cs/0007002,Interval Constraint Solving for Camera Control and Motion Planning,"['Goualard Frederic', 'Benhamou Frederic', 'Languenou Eric', 'Christie Marc']",[],2000
+cs/0008036,"Probabilistic Constraint Logic Programming. Formal Foundations of
+  Quantitative and Statistical Inference in Constraint-Based Natural Language
+  Processing",['Riezler Stefan'],"['cmp-lg/9506014', 'cs/0312043']",2000
+cs/0008034,"Lexicalized Stochastic Modeling of Constraint-Based Grammars using
+  Log-Linear Measures and EM Training","['Riezler Stefan', 'Kuhn Jonas', 'Prescher Detlef', 'Johnson Mark']",['cmp-lg/9506014'],2000
+cs/0008033,Temporal Expressions in Japanese-to-English Machine Translation,"['Ogura Kentaro', 'Uchino Hajime', 'Bond Francis']",[],2000
+cs/0008032,"Japanese Probabilistic Information Retrieval Using Location and Category
+  Information","['Ma Qing', 'Uchimoto Kiyotaka', 'Utiyama Masao', 'Ozaku Hiromi', 'Murata Masaki']",[],2000
+cs/0008031,Bunsetsu Identification Using Category-Exclusive Rules,"['Ma Qing', 'Isahara Hitoshi', 'Murata Masaki', 'Uchimoto Kiyotaka']",['cmp-lg/9505040'],2000
+cs/0008030,Metonymy Interpretation Using X NO Y Examples,"['Ma Qing', 'Isahara Hitoshi', 'Murata Masaki', 'Yamamoto Atsumu']",['cs/9912006'],2000
+cs/0008029,"Exploiting auxiliary distributions in stochastic unification-based
+  grammars","['Riezler Stefan', 'Johnson Mark']",[],2000
+cs/0008028,Estimators for Stochastic ``Unification-Based'' Grammars,"['Riezler Stefan', 'Chi Zhiyi', 'Geman Stuart', 'Johnson Mark', 'Canon Stephen']",[],2000
+cs/0008027,"Measuring efficiency in high-accuracy, broad-coverage statistical
+  parsing","['Roark Brian', 'Charniak Eugene']",[],2000
+cs/0008026,"Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon
+  construction","['Roark Brian', 'Charniak Eugene']",[],2000
+cs/0008024,"Estimation of Stochastic Attribute-Value Grammars using an Informative
+  Sample",['Osborne Miles'],['cmp-lg/9506014'],2000
+cs/0008023,Selectional Restrictions in HPSG,"['Androutsopoulos Ion', 'Dale Robert']",['cmp-lg/9803002'],2000
+cs/0008022,A Learning Approach to Shallow Parsing,"['Zimak Dav', 'Punyakanok Vasin', 'Muñoz Marcia', 'Roth Dan']",['cmp-lg/9505040'],2000
+cs/0008021,"Compact non-left-recursive grammars using the selective left-corner
+  transform and factoring","['Roark Brian', 'Johnson Mark']",[],2000
+cs/0008020,"Explaining away ambiguity: Learning verb selectional preference with
+  Bayesian networks","['Ciaramita Massimiliano', 'Johnson Mark']",[],2000
+cs/0008017,Efficient probabilistic top-down and left-corner parsing,"['Roark Brian', 'Johnson Mark']",['cmp-lg/9711003'],2000
+cs/0008016,Processing Self Corrections in a speech to speech system,"['Spilker Joerg', 'Goerz Guenther', 'Klarner Martin']",[],2000
+cs/0008015,Temiar Reduplication in One-Level Prosodic Morphology,['Walther Markus'],[],2000
+cs/0008014,Aspects of Pattern-Matching in Data-Oriented Parsing,['De Pauw Guy'],[],2000
+cs/0008013,Meta-Learning for Phonemic Annotation of Corpora,"['Daelemans Walter', 'Sang Erik Tjong Kim', 'Gillis Steven', 'Hoste Veronique']",[],2000
+cs/0008007,Tagger Evaluation Given Hierarchical Tag Sets,"['Melamed I. Dan', 'Resnik Philip']",[],2000
+physics/0009032,Information theory and learning: a physical approach,['Nemenman Ilya'],[],2000
+cs/0009027,A Classification Approach to Word Prediction,"['Even-Zohar Yair', 'Roth Dan']",[],2000
+cs/0009022,"A Comparison between Supervised Learning Algorithms for Word Sense
+  Disambiguation","['Marquez Lluis', 'Escudero Gerard', 'Rigau German']",[],2000
+cs/0009011,"Anaphora Resolution in Japanese Sentences Using Surface Expressions and
+  Examples",['Murata Masaki'],[],2000
+cs/0009008,Introduction to the CoNLL-2000 Shared Task: Chunking,"['Sang Erik F. Tjong Kim', 'Buchholz Sabine']",['cmp-lg/9505040'],2000
+cs/0009007,Robust Classification for Imprecise Environments,"['Fawcett Tom', 'Provost Foster']",[],2000
+cs/0009003,Automatic Extraction of Subcategorization Frames for Czech,"['Sarkar Anoop', 'Zeman Daniel']",[],2000
+cs/0009001,Complexity analysis for algorithmically simple strings,['Soklakov Andrei N.'],['quant-ph/0002027'],2000
+cond-mat/0009165,"Occam factors and model-independent Bayesian learning of continuous
+  distributions","['Nemenman Ilya', 'Bialek William']","['cond-mat/9607180', 'physics/9706015', 'hep-th/9703135', 'cond-mat/9911474']",2000
+cs/0010037,On the relationship between fuzzy logic and four-valued relevance logic,['Straccia Umberto'],[],2000
+cs/0010033,A Formal Framework for Linguistic Annotation (revised version),"['Liberman Mark', 'Bird Steven']",['cs/0204026'],2000
+cs/0010032,Super Logic Programs,"['Brass Stefan', 'Dix Juergen', 'Przymusinski Teodor C.']",[],2000
+cs/0010030,Reduction of Intermediate Alphabets in Finite-State Transducer Cascades,['Kempe Andre'],[],2000
+cs/0010022,"Noise-Tolerant Learning, the Parity Problem, and the Statistical Query
+  Model","['Wasserman Hal', 'Blum Avrim', 'Kalai Adam']",[],2000
+cs/0010012,"Finding consensus in speech recognition: word error minimization and
+  other applications of confusion networks","['Mangu L.', 'Stolcke A.', 'Brill E.']",[],2000
+cs/0010006,Applications of Data Mining to Electronic Commerce,"['Kohavi Ron', 'Provost Foster']",[],2000
+quant-ph/0011122,Algorithmic Theories of Everything,['Schmidhuber Juergen'],"['quant-ph/9908043', 'quant-ph/9603008', 'gr-qc/9704009']",2000
+cs/0011044,Scaling Up Inductive Logic Programming by Learning from Interpretations,"['Demoen Bart', 'Jacobs Nico', 'De Raedt Luc', 'Blockeel Hendrik']",[],2000
+cs/0011042,Order-consistent programs are cautiously monotonic,['Turner Hudson'],[],2000
+cs/0011038,"Provably Fast and Accurate Recovery of Evolutionary Trees through
+  Harmonic Greedy Triplets","['Csuros Miklos', 'Kao Ming-Yang']",[],2000
+cs/0011035,Abductive reasoning with temporal information,"['Van Eynde Frank', 'Verdoolaege Sven', 'Denecker Marc']",[],2000
+cs/0011034,Semantic interpretation of temporal information by abductive inference,"['Denecker Marc', 'Verdoolaege Sven', 'Van Eynde Frank', 'De Schreye Danny', 'Schelkens Ness']",[],2000
+cs/0011033,Web Mining Research: A Survey,"['Blockeel Hendrik', 'Kosala Raymond']",[],2000
+cs/0011032,Top-down induction of clustering trees,"['Ramon Jan', 'De Raedt Luc', 'Blockeel Hendrik']",[],2000
+cs/0011030,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison","['Pelov Nikolay', 'Denecker Marc', 'De Mot Emmanuel']",[],2000
+cs/0011028,"Retrieval from Captioned Image Databases Using Natural Language
+  Processing",['Elworthy David'],[],2000
+cs/0011020,The Use of Instrumentation in Grammar Engineering,['Broeker Norbert'],[],2000
+cs/0011011,Formal Properties of XML Grammars and Languages,"['Berstel Jean', 'Boasson Luc']",[],2000
+cs/0011007,Tree-gram Parsing: Lexical Dependencies and Structural Relations,"[""Sima'an Khalil""]",[],2000
+cs/0011003,"Applying Machine Translation to Two-Stage Cross-Language Information
+  Retrieval","['Fujii Atsushi', 'Ishikawa Tetsuya']",[],2000
+cs/0011002,A Novelty-based Evaluation Method for Information Retrieval,"['Fujii Atsushi', 'Ishikawa Tetsuya']",[],2000
+cs/0011001,"Utilizing the World Wide Web as an Encyclopedia: Extracting Term
+  Descriptions from Semi-Structured Texts","['Fujii Atsushi', 'Ishikawa Tetsuya']",[],2000
+cs/0012004,Improving Performance of heavily loaded agents,"['Ozcan Fatma', 'Dix Juergen', 'Subrahmanian VS']",[],2000
+cs/0101036,The Generalized Universal Law of Generalization,"['Chater Nick', 'Vitanyi Paul']",[],2001
+cs/0101014,On the problem of computing the well-founded semantics,"['Lonc Zbigniew', 'Truszczynski Miroslaw']",[],2001
+cs/0101010,"An Even Faster and More Unifying Algorithm for Comparing Trees via
+  Unbalanced Bipartite Matchings","['Sung Wing-Kin', 'Ting Hing-Fung', 'Kao Ming-Yang', 'Lam Tak-Wah']","['cs/0101030', 'cs/0011015']",2001
+cs/0102021,Taking Primitive Optimality Theory Beyond the Finite State,['Albro Daniel'],[],2001
+cs/0102020,Multi-Syllable Phonotactic Modelling,['Belz Anja'],[],2001
+cs/0102019,Easy and Hard Constraint Ranking in OT: Algorithms and Complexity,['Eisner Jason'],[],2001
+cs/0102014,"On the predictability of Rainfall in Kerala- An application of ABF
+  Neural Network","['Joseph K. Babu', 'Philip Ninan Sajeeth']",[],2001
+cs/0103026,A Decision Tree of Bigrams is an Accurate Predictor of Word Sense,['Pedersen Ted'],[],2001
+cs/0103020,Belief Revision: A Critique,"['Halpern Joseph Y.', 'Friedman Nir']",[],2001
+cs/0103015,Fitness Uniform Selection to Preserve Genetic Diversity,['Hutter Marcus'],[],2001
+cs/0103013,CRL at Ntcir2,"['Ma Qing', 'Isahara Hitoshi', 'Utiyama Masao', 'Ozaku Hiromi', 'Murata Masaki']",[],2001
+cs/0103012,"Meaning Sort - Three examples: dictionary construction, tagged corpus
+  construction, and information presentation system","['Ma Qing', 'Isahara Hitoshi', 'Uchimoto Kiyotaka', 'Kanzaki Kyoko', 'Murata Masaki']",[],2001
+cs/0103011,"A Machine-Learning Approach to Estimating the Referential Properties of
+  Japanese Noun Phrases","['Ma Qing', 'Isahara Hitoshi', 'Murata Masaki', 'Uchimoto Kiyotaka']",[],2001
+cs/0103010,"Magical Number Seven Plus or Minus Two: Syntactic Structure Recognition
+  in Japanese and English Sentences","['Ma Qing', 'Isahara Hitoshi', 'Murata Masaki', 'Uchimoto Kiyotaka']",[],2001
+cs/0103003,Learning Policies with External Memory,"['Peshkin Leonid', 'Meuleau Nicolas', 'Kaelbling Leslie']",[],2001
+cs/0104022,Microplanning with Communicative Intentions: The SPUD System,"['Stone Matthew', 'Palmer Martha', 'Webber Bonnie', 'Bleam Tonia', 'Doran Christine']",['cmp-lg/9504020'],2001
+cs/0104020,"Coaxing Confidences from an Old Friend: Probabilistic Classifications
+  from Transformation Rule Lists","['Ngai Grace', 'Henderson John C.', 'Florian Radu']",[],2001
+cs/0104019,"Dynamic Nonlocal Language Modeling via Hierarchical Topic-Based
+  Adaptation","['Yarowsky David', 'Florian Radu']",[],2001
+cs/0104017,Local Search Techniques for Constrained Portfolio Selection Problems,['Schaerf Andrea'],[],2001
+cs/0104007,Bootstrapping Syntax and Recursion using Alignment-Based Learning,['van Zaanen Menno'],[],2001
+cs/0104006,ABL: Alignment-Based Learning,['van Zaanen Menno'],[],2001
+cs/0104005,Bootstrapping Structure using Similarity,['van Zaanen Menno'],[],2001
+cond-mat/0104066,Beyond the Zipf-Mandelbrot law in quantitative linguistics,['Montemurro Marcelo A.'],[],2001
+cs/0105037,Integrating Prosodic and Lexical Cues for Automatic Topic Segmentation,"['Hakkani-Tur D.', 'Shriberg E.', 'Stolcke A.', 'Tur G.']",['cs/0006023'],2001
+cs/0105036,Disjunctive Logic Programs with Inheritance,"['Leone Nicola', 'Buccafurri Francesco', 'Faber Wolfgang']",[],2001
+cs/0105032,Learning to Cooperate via Policy Search,"['Peshkin Leonid', 'Kim Kee-Eung', 'Meuleau Nicolas', 'Kaelbling Leslie Pack']",[],2001
+cs/0105030,The OLAC Metadata Set and Controlled Vocabularies,"['Simons Gary', 'Bird Steven']",[],2001
+cs/0105027,Bounds on sample size for policy evaluation in Markov environments,"['Peshkin Leonid', 'Mukherjee Sayan']",[],2001
+cs/0105025,Market-Based Reinforcement Learning in Partially Observable Worlds,"['Hutter Marcus', 'Kwee Ivo', 'Schmidhuber Juergen']",[],2001
+cs/0105023,"Generating a 3D Simulation of a Car Accident from a Written Description
+  in Natural Language: the CarSim System","['Legendre Vincent', 'Dupuy Sylvain', 'Nugues Pierre', 'Egges Arjan']",[],2001
+cs/0105022,Multi-Channel Parallel Adaptation Theory for Rule Discovery,['Fu Li Min'],[],2001
+cs/0105021,"Solving Composed First-Order Constraints from Discrete-Time Robust
+  Control","['Ratschan Stefan', 'Jaulin Luc']",[],2001
+cs/0105019,Robust Probabilistic Predictive Syntactic Processing,['Roark Brian'],['cmp-lg/9711003'],2001
+cs/0105017,Optimization Over Zonotopes and Training Support Vector Machines,"['Eppstein David', 'Bern Marshall']",[],2001
+cs/0105016,Probabilistic top-down parsing and language modeling,['Roark Brian'],[],2001
+cs/0105015,The alldifferent Constraint: A Survey,['van Hoeve W. J.'],[],2001
+cs/0105005,A Complete WordNet1.5 to WordNet1.6 Mapping,"['Daudé J.', 'Padró L.', 'Rigau G.']",['cmp-lg/9709003v2'],2001
+cs/0105003,"Rule Writing or Annotation: Cost-efficient Resource Usage for Base Noun
+  Phrase Chunking","['Ngai Grace', 'Yarowsky David']",['cmp-lg/9505040'],2001
+cs/0105002,Man [and Woman] vs. Machine: A Case Study in Base Noun Phrase Learning,"['Brill Eric', 'Ngai Grace']",['cmp-lg/9505040'],2001
+cs/0105001,"Correction of Errors in a Modality Corpus Used for Machine Translation
+  by Using Machine-learning Method","['Ma Qing', 'Isahara Hitoshi', 'Uchimoto Kiyotaka', 'Utiyama Masao', 'Murata Masaki']",[],2001
+cs/0106059,CHR as grammar formalism. A first report,['Christiansen Henning'],[],2001
+cs/0106047,"Modeling informational novelty in a conversational system with a hybrid
+  statistical and grammar-based approach to natural language generation",['Ratnaparkhi Adwait'],[],2001
+cs/0106044,A Sequential Model for Multi-Class Classification,"['Even-Zohar Yair', 'Roth Dan']",[],2001
+cs/0106043,"Using the Distribution of Performance for Studying Statistical NLP
+  Systems and Corpora",['Krymolowski Yuval'],['cmp-lg/9505040'],2001
+cs/0106039,Iterative Residual Rescaling: An Analysis and Generalization of LSI,"['Lee Lillian', 'Ando Rie Kubota']",[],2001
+cs/0106031,"Complexity Results and Practical Algorithms for Logics in Knowledge
+  Representation",['Tobies Stephan'],[],2001
+cs/0106025,Information Integration and Computational Logic,"['Kakas Antonis', 'Dimopoulos Yannis']","['cs/9912015', 'cs/0005014']",2001
+cs/0106015,"Organizing Encyclopedic Knowledge based on the Web and its Application
+  to Question Answering","['Fujii Atsushi', 'Ishikawa Tetsuya']",[],2001
+cs/0106014,L.T.Kuzin: Research Program,['Wolfengagen Viacheslav'],[],2001
+cs/0106008,"Computing Functional and Relational Box Consistency by Structured
+  Propagation in Atomic Constraint Systems",['van Emden M. H.'],[],2001
+cs/0106004,Soft Scheduling,['Rudova Hana'],[],2001
+cs/0107029,"aspps --- an implementation of answer-set programming with propositional
+  schemata",['Truszczynski Deborah East. Miroslaw'],['cs/0107028'],2001
+cs/0107028,Propositional satisfiability in answer-set programming,"['East Deborah', 'Truszczynski Miroslaw']",[],2001
+cs/0107021,Multidimensional Transformation-Based Learning,"['Ngai Grace', 'Florian Radu']",[],2001
+cs/0107020,Transformation-Based Learning in the Fast Lane,"['Ngai Grace', 'Florian Radu']",[],2001
+cs/0107019,Applying Natural Language Generation to Indicative Summarization,"['Kan Min-Yen', 'Klavans Judith L.', 'McKeown Kathleen R.']",[],2001
+cs/0107018,Combining a self-organising map with memory-based learning,"['Hammerton James', 'Sang Erik F. Tjong Kim']",[],2001
+cs/0107017,Learning Computational Grammars,"['Hammerton James', 'Cancedda Nicola', 'Belz Anja', 'Nerbonne John', 'Dejean Herve']","['cmp-lg/9611003', 'cmp-lg/9505040']",2001
+cs/0107014,Transformations of CCP programs,"['Gabbrielli Maurizio', 'Meo Maria Chiara', 'Etalle Sandro']",[],2001
+cs/0107013,The Logic Programming Paradigm and Prolog,['Apt Krzysztof R.'],[],2001
+cs/0107006,"Looking Under the Hood : Tools for Diagnosing your Question Answering
+  Engine","['Riloff Ellen', 'Anand Brianne Brown Pranav', 'Breck Eric', 'Light Marc', 'Mann Gideon S.']",[],2001
+cs/0107005,The Role of Conceptual Relations in Word Sense Disambiguation,"['Verdejo Felisa', 'Fernandez-Amoros David', 'Gonzalo Julio']",[],2001
+cs/0107002,Enhancing Constraint Propagation with Composition Operators,"['Granvilliers Laurent', 'Monfroy Eric']",['cs/0012010'],2001
+cs/0108023,Information Extraction Using the Structured Language Model,"['Mahajan Milind', 'Chelba Ciprian']","['cs/9811025v2', 'cs/0108022']",2001
+cs/0108022,Portability of Syntactic Structure for Language Modeling,['Chelba Ciprian'],['cs/9811025v2'],2001
+cs/0108018,Bipartite graph partitioning and data clustering,"['Simon H.', 'Zha H.', 'He X.', 'Gu M.', 'Ding C.']",[],2001
+cs/0108013,"Convergent Approximate Solving of First-Order Constraints by Approximate
+  Quantifiers",['Ratschan Stefan'],[],2001
+cs/0108008,"Using Methods of Declarative Logic Programming for Intelligent
+  Information Agents","['Eiter T.', 'Sabbatini G.', 'Fink M.', 'Tompits H.']",[],2001
+cs/0108005,A Bit of Progress in Language Modeling,['Goodman Joshua'],[],2001
+cs/0109039,"Testing for Mathematical Lineation in Jim Crace's ""Quarantine"" and T. S.
+  Eliot's ""Four Quartets""","['Aoyama Hideaki', 'Constable John']",[],2001
+cs/0109023,Integrating Multiple Knowledge Sources for Robust Semantic Parsing,"['Atserias Jordi', 'Padro Lluis', 'Rigau German']",['cmp-lg/9709003v2'],2001
+cs/0109020,"Modelling Semantic Association and Conceptual Inheritance for Semantic
+  Analysis",['Vaillant Pascal'],[],2001
+cs/0109015,Boosting Trees for Anti-Spam Email Filtering,"['Marquez Lluis', 'Carreras Xavier']",[],2001
+cs/0109010,Anaphora and Discourse Structure,"['Webber Bonnie', 'Stone Matthew', 'Knott Alistair', 'Joshi Aravind']","['cmp-lg/9504020', 'cmp-lg/9708003v1']",2001
+cs/0109006,On Properties of Update Sequences Based on Causal Rejection,"['Eiter T.', 'Sabbatini G.', 'Fink M.', 'Tompits H.']","['cs/0202021', 'cs/0202022']",2001
+cond-mat/0109218,Entropic analysis of the role of words in literary texts,"['Zanette Damian H.', 'Montemurro Marcelo A.']",[],2001
+cs/0110053,Machine Learning in Automated Text Categorization,['Sebastiani Fabrizio'],[],2001
+cs/0110041,Towards Solving the Interdisciplinary Language Barrier Problem,['Paquet Sebastien'],[],2001
+cs/0110036,Efficient algorithms for decision tree cross-validation,"['Struyf Jan', 'Blockeel Hendrik']",[],2001
+cs/0110027,Part-of-Speech Tagging with Two Sequential Transducers,['Kempe Andre'],[],2001
+cs/0110023,Set Unification,"['Rossi Gianfranco', 'Pontelli Enrico', 'Dovier Agostino']",[],2001
+cs/0110015,Richer Syntactic Dependencies for Structured Language Modeling,"['Chelba Ciprian', 'Xu Peng']",['cs/9811025v2'],2001
+cs/0110014,The Open Language Archives Community and Asian Language Resources,"['Simons Gary', 'Huang Chu-Ren', 'Bird Steven']",[],2001
+cs/0110004,"Embedding conditional event algebras into temporal calculus of
+  conditionals","['Hoffmann Achim', 'Ramer Arthur', 'Tyszkiewicz Jerzy']",[],2001
+cs/0110003,The temporal calculus of conditional objects and conditional events,"['Hoffmann Achim', 'Ramer Arthur', 'Tyszkiewicz Jerzy']",[],2001
+cs/0111065,A Statistical Model for Word Discovery in Transcribed Speech,['Venkataraman Anand'],[],2001
+cs/0111064,A procedure for unsupervised lexicon learning,['Venkataraman Anand'],[],2001
+cs/0111060,Gradient-based Reinforcement Planning in Policy-Search Methods,"['Hutter Marcus', 'Kwee Ivo', 'Schmidhuber Juergen']",[],2001
+cs/0111054,The similarity metric,"['Chen Xin', 'Li Ming', 'Ma Bin', 'Vitanyi Paul', 'Li Xin']","['cs/0312044', 'quant-ph/9703022']",2001
+cs/0111038,Arc consistency for soft constraints,"['Schiex Thomas', 'Cooper Martin']",['1303.5427'],2001
+cs/0111003,The Use of Classifiers in Sequential Inference,"['Punyakanok Vasin', 'Roth Dan']",['cmp-lg/9505040'],2001
+cs/0112018,"Fast Context-Free Grammar Parsing Requires Fast Boolean Matrix
+  Multiplication",['Lee Lillian'],[],2001
+cs/0112015,Rational Competitive Analysis,['Tennenholtz Moshe'],[],2001
+cs/0112013,"A Data Mining Framework for Optimal Product Selection in Retail
+  Supermarket Data: The Generalized PROFSET Model","['Vanhoof Koen', 'Wets Geert', 'Swinnen Gilbert', 'Brijs Tom', 'Goethals Bart']",[],2001
+cs/0112011,Interactive Constrained Association Rule Mining,"['Goethals Bart', 'Bussche Jan Van den']",[],2001
+cs/0112007,A Tight Upper Bound on the Number of Candidate Patterns,"['Geerts Floris', 'Goethals Bart', 'Bussche Jan Van den']",[],2001
+cs/0112005,"Universal Model for Paraphrasing -- Using Transformation Based on a
+  Defined Criteria --","['Isahara Hitoshi', 'Murata Masaki']",['cs/0103010'],2001
+cs/0112004,Part of Speech Tagging in Thai Language Using Support Vector Machine,"['Ma Qing', 'Isahara Hitoshi', 'Murata Masaki']",[],2001
+cs/0112003,"Using a Support-Vector Machine for Japanese-to-English Translation of
+  Tense, Aspect, and Modality","['Ma Qing', 'Isahara Hitoshi', 'Murata Masaki', 'Uchimoto Kiyotaka']",[],2001
